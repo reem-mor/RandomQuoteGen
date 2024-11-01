@@ -35,6 +35,7 @@ RandomQuoteGen/
 └── assets/
     └── images/ (optional, for storing images)
 
+
 ## Technologies Used
 HTML5: For the structure of the web page.
 CSS3: For styling and responsive design.
