@@ -65,4 +65,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to all the authors whose quotes make this app meaningful.
 
 ## Contact
-Created by [Re'em Mor](https://github.com/reem_mor) – feel free to reach out!
+Created by [Re'em Mor](https://github.com/reem-mor) – feel free to reach out!
